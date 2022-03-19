@@ -1,11 +1,11 @@
 # Tugas3PAM
-Identitas diri :
-Nama : Whendric Lamsehat Siburian
-NIM : 119140043
-Mata Kuliah : Pengembangan Aplikasi Mobile
-TUGAS 3
+#Identitas diri :
+#Nama : Whendric Lamsehat Siburian
+#NIM : 119140043
+#Mata Kuliah : Pengembangan Aplikasi Mobile
+#TUGAS 3
 
-Penjelasan Source Code
+#Penjelasan Source Code
 1. Halaman Utama
   Berisi code yang membuat halaman utama dan memiliki inputan dan memiliki code tombol cari yang berfungsi untuk memproses inputan ke halaman berikutnya 
 ![image](https://user-images.githubusercontent.com/101852042/159123721-a3f67fdb-c28c-47f2-acfc-1f16ab03c07c.png)
