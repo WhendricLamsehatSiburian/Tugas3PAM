@@ -1,9 +1,9 @@
 # Tugas3PAM
-#Identitas diri :
-#Nama : Whendric Lamsehat Siburian
-#NIM : 119140043
-#Mata Kuliah : Pengembangan Aplikasi Mobile
-#TUGAS 3
+Identitas diri :
+Nama : Whendric Lamsehat Siburian
+NIM : 119140043
+Mata Kuliah : Pengembangan Aplikasi Mobile
+TUGAS 3
 
 #Penjelasan Source Code
 1. Halaman Utama
