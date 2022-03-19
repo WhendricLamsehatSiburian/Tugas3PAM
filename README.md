@@ -9,6 +9,19 @@ Mata Kuliah : Pengembangan Aplikasi Mobile
 
 TUGAS 3
 
+Output
+1. Halaman Utama
+  ![image](https://user-images.githubusercontent.com/101852042/159124959-0ff05187-4e15-4c1d-b8e9-7fd9fed26272.png)
+
+2. Halaman Utama setelah Diinputkan
+![image](https://user-images.githubusercontent.com/101852042/159124932-e3c32d3d-adb7-4782-afb5-6eedc14d609e.png)
+
+3. Hasil Pencarian ketika Berhasil
+  ![image](https://user-images.githubusercontent.com/101852042/159124943-a8e020b8-db30-405b-b617-6df5b4c335ac.png)
+
+4. Hasil Pencarian ketika tidak berhasil
+  ![image](https://user-images.githubusercontent.com/101852042/159124965-0ecd9325-435b-42a4-a544-62f500a4da41.png)
+
 Penjelasan Source Code
 1. Halaman Utama
   Berisi code yang membuat halaman utama dan memiliki inputan dan memiliki code tombol cari yang berfungsi untuk memproses inputan ke halaman berikutnya 
